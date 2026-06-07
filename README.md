@@ -4,7 +4,7 @@
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-blue?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/10497287)
 
-[![Full Paper](https://img.shields.io/badge/PDF-Full%20Research%20Paper-red?style=for-the-badge&logo=adobeacrobatreader)](./ESCI 1188.pdf)
+[![Full Paper](https://img.shields.io/badge/PDF-Full%20Research%20Paper-red?style=for-the-badge&logo=adobeacrobatreader)](./ESCI_1188.pdf)
 
 This repository contains the implementation and research work behind our IEEE-published paper:
 
